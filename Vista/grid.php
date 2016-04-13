@@ -53,9 +53,7 @@ and open the template in the editor.
                     <h3>Column 5</h3>
                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elitLorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
                     <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laborisUt enim ad minim veniam, quis nostrud exercitation ullamco l...</p>
-                </div>
-                
-                
+                </div>                                
             </div>
         </div>
     </body>
